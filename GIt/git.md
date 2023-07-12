@@ -23,3 +23,10 @@ Download GITHUB APP MACBOOK:
 ** git push -u origin + nome del branch da caricare ** ===> " si usa per caricare su github"
 
 ** git pul ** ===> " si usa per scaricare in locale tutti gli aggiornamenti della repo"
+
+
+
+
+//**! ALTRI LINK UTILI !**
+
+https://gist.github.com/tesseslol/da62aabec74c4fed889ea39c95efc6cc
